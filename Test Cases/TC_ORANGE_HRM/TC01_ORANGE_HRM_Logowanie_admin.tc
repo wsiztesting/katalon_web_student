@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sprawdzenie logowania jako administrator</description>
+   <name>TC01_ORANGE_HRM_Logowanie_admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb552c70-7da9-4930-87e8-657828490b77</testCaseGuid>
+   <variable>
+      <defaultValue>'Welcome Admin'</defaultValue>
+      <description>Powitanie uzytkownika</description>
+      <id>cc279a09-0270-4bcf-ba99-b730a101e440</id>
+      <masked>false</masked>
+      <name>user_msg_expected</name>
+   </variable>
+</TestCaseEntity>

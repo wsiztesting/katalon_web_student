@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>WSIZ</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Strona logowania do -elearningu</description>
+      <initValue>'https://elearning.wsiz.wroc.pl/'</initValue>
+      <name>url_elearning</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Czas oczekiwania(opóźnienie) na element strony</description>
+      <initValue>2</initValue>
+      <name>time_delay</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

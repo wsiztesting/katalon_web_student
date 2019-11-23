@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Szukanie pracownika</description>
+   <name>TC02_ORANGE_HRM_Szukanie_pracownika_wg_nazwy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd8f1d7e-6ef9-4163-92d8-020557c8408a</testCaseGuid>
+   <variable>
+      <defaultValue>'Anderson'</defaultValue>
+      <description>Nazwa pracownika szukanego</description>
+      <id>fdd8c1b4-87c9-4abd-a80f-34569c79b3ed</id>
+      <masked>false</masked>
+      <name>employee_name_search</name>
+   </variable>
+   <variable>
+      <defaultValue>'Linda Anderson'</defaultValue>
+      <description>Nazwa pracownika na profilu</description>
+      <id>36795700-f57e-4807-a667-bd3de5adb999</id>
+      <masked>false</masked>
+      <name>employee_name_expected</name>
+   </variable>
+</TestCaseEntity>

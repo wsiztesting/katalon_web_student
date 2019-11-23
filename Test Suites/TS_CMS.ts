@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>Logowanie do strony CMS</description>
+   <name>TS_CMS</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>745954c0-ad63-4c54-8eb7-9938d3a153d5</testSuiteGuid>
+   <testCaseLink>
+      <guid>b672ca54-bac6-4a35-8a8a-39d0c17682cc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_CMS_LOGOWANIE/TC01_CMS_Logowanie_bledne</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f5128d8e-ed17-4dfe-819d-afbe75669512</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0eda0ac0-9308-4548-b82f-c111cfa73c1d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>92aa5b0e-c299-4458-8713-d3e2c9d58690</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6ee7dea8-c7fb-4cda-8866-c38837972a6d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f094480f-1009-48ed-9b7b-1b8cd5e59692</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_CMS_LOGOWANIE/TC01_CMS_Logowanie_poprawne</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4a1496ed-d4d9-4c7c-bc1a-7836f4207c41</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>98cd34cc-d986-4227-980a-b10017b983f8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8e4e2c56-6f09-4c92-99e5-b273ec144c8a</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

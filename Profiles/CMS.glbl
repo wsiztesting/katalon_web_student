@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>CMS</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Czas opóźnienia</description>
+      <initValue>'5'</initValue>
+      <name>timeDelay</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

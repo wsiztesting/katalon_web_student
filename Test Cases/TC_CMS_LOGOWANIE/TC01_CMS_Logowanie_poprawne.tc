@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Dodanie wiadomosci do CMS</description>
+   <name>TC01_CMS_Logowanie_poprawne</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b15c821-0199-43a3-b937-5fe172af6e1f</testCaseGuid>
+   <variable>
+      <defaultValue>'opensourcecms'</defaultValue>
+      <description>Nazwa uzytkownika</description>
+      <id>4a1496ed-d4d9-4c7c-bc1a-7836f4207c41</id>
+      <masked>false</masked>
+      <name>user_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'9xMcIln6Yu8mdBT4sTgF5Q=='</defaultValue>
+      <description>Haslo uzytkownika</description>
+      <id>98cd34cc-d986-4227-980a-b10017b983f8</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://s1.demo.opensourcecms.com/cms_madesimple/admin/login.php'</defaultValue>
+      <description>Adres uri logowania do aplikacji</description>
+      <id>8e4e2c56-6f09-4c92-99e5-b273ec144c8a</id>
+      <masked>false</masked>
+      <name>url_login</name>
+   </variable>
+</TestCaseEntity>

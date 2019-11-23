@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>Zestaw ORANGE HRM</description>
+   <name>TS_ORANGE_HRM</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>a2538461-d607-42b1-bcbf-601b9191c16c</testSuiteGuid>
+   <testCaseLink>
+      <guid>1f0c18e0-257c-4b33-a194-50bb572eae4a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_ORANGE_HRM/TC01_ORANGE_HRM_Logowanie_admin</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>cc279a09-0270-4bcf-ba99-b730a101e440</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>60eb4627-64ca-4dff-bf77-a4b5886329ae</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_ORANGE_HRM/TC02_ORANGE_HRM_Szukanie_pracownika_wg_nazwy</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>fdd8c1b4-87c9-4abd-a80f-34569c79b3ed</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>36795700-f57e-4807-a667-bd3de5adb999</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f3bf5eaa-eea6-4a69-9191-4fd8edf8cff2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_ORANGE_HRM/TC03_ORANGE_HRM_Dodanie_oferty_pracy</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4245a1ab-ea37-4852-90a9-b35c8672a67b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2636d949-3c7a-4048-9ee4-e3c0e7608d54</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e0c54b47-6def-4701-a431-3571e9284592</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2d6f9e85-982f-434c-b713-a1a348782407</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

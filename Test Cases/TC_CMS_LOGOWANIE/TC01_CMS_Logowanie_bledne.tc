@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Dodanie wiadomosci do CMS</description>
+   <name>TC01_CMS_Logowanie_bledne</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4a00327-81e3-4266-a717-989cc5ebd76c</testCaseGuid>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description>Nazwa uzytkownika</description>
+      <id>f5128d8e-ed17-4dfe-819d-afbe75669512</id>
+      <masked>false</masked>
+      <name>user_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'9xMcIln6Yu8mdBT4sTgF5Q=='</defaultValue>
+      <description>Haslo uzytkownika</description>
+      <id>0eda0ac0-9308-4548-b82f-c111cfa73c1d</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://s1.demo.opensourcecms.com/cms_madesimple/admin/login.php'</defaultValue>
+      <description>Adres uri logowania do aplikacji</description>
+      <id>92aa5b0e-c299-4458-8713-d3e2c9d58690</id>
+      <masked>false</masked>
+      <name>url_login</name>
+   </variable>
+   <variable>
+      <defaultValue>'User name or password incorrect'</defaultValue>
+      <description>Komunikat w przypadku blednego logowania</description>
+      <id>6ee7dea8-c7fb-4cda-8866-c38837972a6d</id>
+      <masked>false</masked>
+      <name>msg_error</name>
+   </variable>
+</TestCaseEntity>

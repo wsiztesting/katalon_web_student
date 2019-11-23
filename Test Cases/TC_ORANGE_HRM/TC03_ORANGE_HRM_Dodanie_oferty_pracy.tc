@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Dodanie oferty pracy</description>
+   <name>TC03_ORANGE_HRM_Dodanie_oferty_pracy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4fec61a-a457-4436-8e4f-c2d4abc4a871</testCaseGuid>
+   <variable>
+      <defaultValue>'#Browarnik'</defaultValue>
+      <description>Nazwa oferty pracy</description>
+      <id>4245a1ab-ea37-4852-90a9-b35c8672a67b</id>
+      <masked>false</masked>
+      <name>job_title</name>
+   </variable>
+   <variable>
+      <defaultValue>'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...'</defaultValue>
+      <description>Opis oferty pracy</description>
+      <id>2636d949-3c7a-4048-9ee4-e3c0e7608d54</id>
+      <masked>false</masked>
+      <name>job_desc</name>
+   </variable>
+   <variable>
+      <defaultValue>'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nec iaculis nunc. Nulla facilisi. Donec placerat nisl in arcu fringilla, in pharetra sapien laoreet.'</defaultValue>
+      <description>Notatka oferty pracy</description>
+      <id>e0c54b47-6def-4701-a431-3571e9284592</id>
+      <masked>false</masked>
+      <name>job_note</name>
+   </variable>
+   <variable>
+      <defaultValue>'#Browarnik'</defaultValue>
+      <description>Nazwa oferty pracy do weryfikacji</description>
+      <id>2d6f9e85-982f-434c-b713-a1a348782407</id>
+      <masked>false</masked>
+      <name>job_title_expected</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Zalogowanie do elerningu jako gosc</description>
+   <name>TC03_WSIZ_Elearning_logowanie_gosc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d308793-40af-402d-af07-0bd7d707b0c1</testCaseGuid>
+</TestCaseEntity>

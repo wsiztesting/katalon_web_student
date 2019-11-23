@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sprawdzenie logowania dla błędnych danych</description>
+   <name>TC01_WSIZ_Elearning_logowanie_bledne_dane</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5bc43e65-ed8c-42d3-b5b0-a8498179e623</testCaseGuid>
+   <variable>
+      <defaultValue>'Niewłaściwa nazwa użytkownika lub hasło, spróbuj ponownie'</defaultValue>
+      <description>Komunikat w przypadku błednego logowania</description>
+      <id>448f7ecb-35bc-4e62-abfd-8062900dec97</id>
+      <masked>false</masked>
+      <name>msg_error_expected</name>
+   </variable>
+</TestCaseEntity>
