@@ -3,8 +3,8 @@
 /.settings/
 /.classpath
 .svn/
-*/Reports
+*Reports/**
 .project
-*/settings/
-*/Plugins/
+settings/**
+Plugins/**
 console.properties
