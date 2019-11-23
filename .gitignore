@@ -1,0 +1,10 @@
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/
+*/Reports
+.project
+*/settings/
+*/Plugins/
+console.properties
